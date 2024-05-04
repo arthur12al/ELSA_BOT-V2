@@ -1,4 +1,4 @@
-<img alt="X-2.0" height="300" src="https://telegra.ph/Medo-old-05-04">
+<img alt="X-2.0" height="300" src="https://telegra.ph/Medo-old-05-04.png">
 
 <div align="center">
     ⏬<b>ARTHUR BOT MD</b>⏬</b>
