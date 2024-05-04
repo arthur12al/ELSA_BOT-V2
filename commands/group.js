@@ -81,7 +81,7 @@ cmd({
         filename: __filename,
     },
     async(Void, citel, text) => {
-        citel.reply(`*֎╎شـوف خـاصـك*`);
+        citel.reply(`*֎╎​​​​​​​​​​​​​https://wa.me/+201225172281*`);
         await Void.sendMessage(`${citel.sender}`, {
             image: log0,
             caption: `*֎╎رابـط جـروب الـدعـم┇ https://chat.whatsapp.com/G1OemEBwEGV3xO42hcSHIl*`,
