@@ -1,8 +1,8 @@
 {
     "__JSON__": true,
     "AUTHOR": "Elgazar",
-    "theme": "ELSA-MD",
-    "LANGUAGE": "elsabot2",
+    "theme": "arthur-old-schoolhttps://instagram.com/medo_banha?igshid=ZGUzMzM3NWJiOQ==",
+    "LANGUAGE": "arthur1",
     "LANGCODE": "ar",
     "STRINGS": { 
         "updater": { 
@@ -11,7 +11,7 @@
             "UPDATED_LOCAL": "*اتركه كما هو"
         }, 
         "global": {     
-            "botName": "*『❄️┇❆ 𝐸𝐿𝑆𝐴 𝐵𝑂𝑇-𝑀𝐷 ❆┇❄️』*",
+            "botName": "*『❄️┇❆ 𝑎𝑟𝑡ℎ𝑢𝑟 𝑏𝑜𝑡-𝑚𝑑 ❆┇❄️』*",
             "body": "بوت واتساب عربي", 
             "greet2" : "شكرا للمطور الجزار",
             "pic1": "https://telegra.ph/file/24bb9841a79d8b45e8441.jpg", 
