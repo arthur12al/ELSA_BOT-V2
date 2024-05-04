@@ -1,4 +1,4 @@
-<img alt="X-2.0" height="300" src="https://telegra.ph/arthur1mod-05-04">
+<img alt="X-2.0" height="300" src="https://telegra.ph/arthur1mod-05-04.jpg">
 
 <div align="center">
     ⏬<b>ARTHUR BOT MD</b>⏬</b>
