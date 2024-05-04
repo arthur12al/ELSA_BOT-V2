@@ -1,4 +1,4 @@
-<img alt="X-2.0" height="300" src="http://telegra.ph/Arthur-08-26-3">
+<img alt="X-2.0" height="300" src="https://telegra.ph/%D8%B9%D9%85%D9%88-%D8%A7%D8%B1%D8%AB%D8%B1-05-04">
 
 <div align="center">
     ⏬<b>ARTHUR BOT MD</b>⏬</b>
